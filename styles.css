@@ -45,7 +45,7 @@ br {
 }
 
 .row {
-  height: 500px;
+  height: 520px;
 }
 
 .row:after {
@@ -58,7 +58,6 @@ br {
   float: left;
   height: 100%;
   width: 300px;
-  padding: 10px;
 }
 
 .first {
@@ -78,7 +77,7 @@ br {
 }
 
 .columnDiv {
-  margin: 35px;
+  margin: 40px;
   position: relative;
   height: 430px;
 }
