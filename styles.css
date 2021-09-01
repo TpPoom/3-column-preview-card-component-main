@@ -27,7 +27,7 @@ h1 {
 p {
   font-family: 'Lexend Deca', sans-serif;
   color: var(--Transparent-white);
-  font-size: 4vb;
+  font-size: 15px;
 }
 
 br {
@@ -45,7 +45,7 @@ br {
 }
 
 .row {
-  height: 520px;
+  height: 500px;
 }
 
 .row:after {
